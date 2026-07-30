@@ -139,15 +139,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🔑 Configuration
 
-Create a `.env` file and add your Google Gemini API key:
-
-```env
-GOOGLE_API_KEY=YOUR_API_KEY
-```
-
----
 
 ## ▶️ Running the Application
 
